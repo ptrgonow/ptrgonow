@@ -9,7 +9,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
 </div>
 
-<div>
+<div align= "left">
      
 - **열심히 보다 잘 하자!**
    
@@ -60,9 +60,10 @@
 <br>
    
 <div align= "center"> 
-   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ptrgonow&custom_title=ptrgonow's Github Stat&bg_color=180,00000000,&title_color=000000&text_color=000000"
-       /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrgonow&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-          /> </div> 
-</div>
-    
+   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">
+       
+ ![patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrgonow&show_icons=true&theme=radical)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrgonow&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+       
+</div>
