@@ -2,9 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=ptrgonow&label=Profile%20views&color=0e75b6&style=plastic" alt="ptrgonow" />
 </p>
 
-<h1 align="center">Hi 👋, I'm 강석민(patrick)</h1>
+<h1>👋 backend developer 👋 강석민(patrick)</h1>
 
-<h3 align="center">A passionate backend developer from Korea</h3>
+<h3>A passionate backend developer from Korea</h3>
 
 - 🔭 I’m currently working on [refactoring to Aniwhere](https://github.com/ptrgonow/aniwhere-ver-2.git)
 
