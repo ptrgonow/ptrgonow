@@ -1,12 +1,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fptrgonow%2Fhit-counter&count_bg=%236BCF20&title_bg=%23D74B4B&icon=git.svg&icon_color=%23E7E7E7&title=ptr&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div>
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=9ba0ab&height=240&text=patrick&animation=&fontColor=ffffff&fontSize=40" />
-    </div>
-    <div> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 backend developer 👋 강석민 (patrick) </h2>  
+</div>
+<div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 backend developer 👋 강석민 (patrick) </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-     
+</div>
+
+ <div>
 - **'열심히' 보다 '잘' 하자!**
    
 - 🔭 I’m currently working on [refactoring to Aniwhere](https://github.com/ptrgonow/aniwhere-ver-2.git)
@@ -18,13 +20,15 @@
 - 📫 contact **lusielar@naver.com** </li>
 
 - ⚡ Fun fact **진짜 열심히 공부 하고 있습니다. 재밌는 '사실' 이죠!**
+
+</div>
+
 <br>
 
 ---
 
 <br>
-   </div>
-   </div>
+   
    <div align= "center">
    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
    <div style="margin: 0 auto; text-align: center;" align= "center">
@@ -43,8 +47,9 @@
          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
          <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-         <br/></div>
+         <br/>
    </div>
+
     
    <div align= "center">
    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
