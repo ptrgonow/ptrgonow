@@ -3,7 +3,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=9ba0ab&height=240&text=patrick&animation=&fontColor=ffffff&fontSize=40" />
 </div>
-<div>
+<div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 backend developer 👋 강석민 (patrick) </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
 </div>
