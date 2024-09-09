@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ptrgonow&label=Profile%20views&color=0e75b6&style=plastic" alt="ptrgonow" />
-</p>
 
 <h1>👋 backend developer 👋 강석민(patrick)</h1>
 
@@ -16,11 +13,12 @@
 
 - ⚡ Fun fact **진짜 열심히 공부 하고 있습니다. 재밌는 '사실' 이죠!**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrgonow&layout=compact)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236BCF20&title_bg=%23D74B4B&icon=git.svg&icon_color=%23E7E7E7&title=ptr&edge_flat=false)](https://hits.seeyoufarm.com)
 ![patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrgonow&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrgonow&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
+<p sytle="background-color='#fff';">
   
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -43,7 +41,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
       
 </p>
