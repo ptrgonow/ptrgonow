@@ -16,9 +16,6 @@
 
 - ⚡ Fun fact **진짜 열심히 공부 하고 있습니다. 재밌는 '사실' 이죠!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
