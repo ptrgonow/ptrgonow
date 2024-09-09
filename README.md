@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **진짜 열심히 공부 하고 있습니다. 재밌는 '사실' 이죠!**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrgonow&layout=compact)
+![patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrgonow&show_icons=true&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
