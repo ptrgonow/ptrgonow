@@ -17,8 +17,6 @@
 
 - 🌱 I’m currently learning **Redis pub/sub, Springboot, Security**
 
-- 👨‍💻 All of my projects are available at [down here](down here)
-
 - 📫 Contact Me **lusielar@naver.com**
 
 - <a href=https://sequoia-lightning-e87.notion.site/Patrick-s-Note-51fe0ee6d3de4b6e9d83f231ec53cd05> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://sequoia-lightning-e87.notion.site/Patrick-s-Note-51fe0ee6d3de4b6e9d83f231ec53cd05"> </a>
