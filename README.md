@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [down here](down here)
 
-- 📫 contact **lusielar@naver.com**
+- 📫 Contact Me **lusielar@naver.com**
 
 - <a href=https://sequoia-lightning-e87.notion.site/Patrick-s-Note-51fe0ee6d3de4b6e9d83f231ec53cd05> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://sequoia-lightning-e87.notion.site/Patrick-s-Note-51fe0ee6d3de4b6e9d83f231ec53cd05"> </a>
 
@@ -52,9 +52,6 @@
 
 <br>
 
-<div align= "center">
-   <h2 style="margin-bottom: 10px; border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> <br>
-    
 <div align= "center"> 
    <h2 style="margin-bottom: 10px; border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">
        
