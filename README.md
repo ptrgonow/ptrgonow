@@ -5,7 +5,7 @@
 </div>
 
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 backend developer 👋 강석민 (patrick) </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 backend developer 👋 강석민 (patrick) <br> </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
 </div>
 
@@ -28,7 +28,7 @@
 <br>
 
 <div align= "center">
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> <br> 
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks <br> </h2> <br> <br> 
 <div style="margin: 0 auto; text-align: center;" align= "center">
      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
@@ -51,7 +51,7 @@
 <br>
 
 <div align= "center">
-   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> <br> 
+   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me <br> </h2> <br> <br> 
 <div align= "center">
     <a href=https://sequoia-lightning-e87.notion.site/Patrick-s-Note-51fe0ee6d3de4b6e9d83f231ec53cd05>
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://sequoia-lightning-e87.notion.site/Patrick-s-Note-51fe0ee6d3de4b6e9d83f231ec53cd05"> </a>
@@ -60,7 +60,7 @@
 <br>
    
 <div align= "center"> 
-   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">
+   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats <br> </h2> <div align= "center">
        
  ![patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrgonow&show_icons=true&theme=radical)
 
