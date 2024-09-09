@@ -1,7 +1,4 @@
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fptrgonow%2Fhit-counter&count_bg=%236BCF20&title_bg=%23D74B4B&icon=git.svg&icon_color=%23E7E7E7&title=ptr&edge_flat=false)](https://hits.seeyoufarm.com)
- 
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fptrgonow%2Fhit-counter&count_bg=%236BCF20&title_bg=%23D74B4B&icon=git.svg&icon_color=%23E7E7E7&title=ptr&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=9ba0ab&height=240&text=patrick&animation=&fontColor=ffffff&fontSize=40" />
@@ -10,18 +7,18 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 backend developer 👋 강석민 (patrick) </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
      
-- '열심히' 보다 '잘' 하자!
+<li> '열심히' 보다 '잘' 하자! </li>
    
-- 🔭 I’m currently working on [refactoring to Aniwhere](https://github.com/ptrgonow/aniwhere-ver-2.git)
+<li> 🔭 I’m currently working on [refactoring to Aniwhere](https://github.com/ptrgonow/aniwhere-ver-2.git) </li>
 
-- 🌱 I’m currently learning **Redis pub/sub, Springboot, Security**
+<li> 🌱 I’m currently learning **Redis pub/sub, Springboot, Security** </li>
 
-- 👨‍💻 All of my projects are available at [down here](down here)
+<li> 👨‍💻 All of my projects are available at [down here](down here) </li>
 
-- 📫 contact **lusielar@naver.com**
+<li> 📫 contact **lusielar@naver.com** </li>
 
-- ⚡ Fun fact **진짜 열심히 공부 하고 있습니다. 재밌는 '사실' 이죠!**
-- 
+<li> ⚡ Fun fact **진짜 열심히 공부 하고 있습니다. 재밌는 '사실' 이죠!** </li>
+
 <br>
 
 ---
@@ -52,13 +49,14 @@
     
    <div align= "center">
    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-   <div align= "center"> <a href=https://sequoia-lightning-e87.notion.site/Patrick-s-Note-51fe0ee6d3de4b6e9d83f231ec53cd05> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://sequoia-lightning-e87.notion.site/Patrick-s-Note-51fe0ee6d3de4b6e9d83f231ec53cd05"> </a></div>  
-    <br> 
-     
+   <div align= "center"> <a href=https://sequoia-lightning-e87.notion.site/Patrick-s-Note-51fe0ee6d3de4b6e9d83f231ec53cd05> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://sequoia-lightning-e87.notion.site/Patrick-s-Note-51fe0ee6d3de4b6e9d83f231ec53cd05"> </a>
+   </div>
+    
+   <br>
    <div align= "center"> 
    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ptrgonow&custom_title=ptrgonow's Github Stat&bg_color=180,00000000,&title_color=000000&text_color=000000"
        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrgonow&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
           /> </div> 
    </div>
     
-_
+
