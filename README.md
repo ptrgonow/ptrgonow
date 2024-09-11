@@ -1,10 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fptrgonow%2Fhit-counter&count_bg=%236BCF20&title_bg=%23D74B4B&icon=git.svg&icon_color=%23E7E7E7&title=ptr&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=9ba0ab&height=240&text=patrick&animation=&fontColor=ffffff&fontSize=40" />
-</div>
-
-<div align= "center">
     <h2 style="margin-bottom: 10px; border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 backend developer 👋 강석민 (patrick) </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
 </div>
