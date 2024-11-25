@@ -8,6 +8,8 @@
 <div align= "left">
      
 - **열심히 보다 잘 하자!**
+
+- **당 당 히 취 업 부 수 기 성 공**
    
 - 🔭 I’m currently working on [refactoring to Aniwhere](https://github.com/ptrgonow/aniwhere-ver-2.git)
 
