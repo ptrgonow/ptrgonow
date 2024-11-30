@@ -1,6 +1,5 @@
 <div align= "center">
-    <h2 style="margin-bottom: 10px; border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 backend developer 👋 강석민 (patrick) </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+    <h2 style="margin-bottom: 10px; border-bottom: 1px solid #21262d; color: #c9d1d9;"> backend developer </h2>
 </div>
 
 <div align= "left">
