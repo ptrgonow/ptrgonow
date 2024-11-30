@@ -1,5 +1,8 @@
 <div align= "center">
-    <h2 style="margin-bottom: 10px; border-bottom: 1px solid #21262d; color: #c9d1d9;"> backend developer </h2>
+    <h3 style="margin-bottom: 30px;"> backend developer </h3>
+    <p>
+        Patrick
+    </p>
 </div>
 
 <div align= "left">
