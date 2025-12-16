@@ -7,7 +7,6 @@
 
 <div align= "left">
 
-- *ALLPAYS 개발팀 선임*
-- *ALLPAYS 개발팀 팀장*
+- *ALLPAYS 기술개발팀 팀장*
 
 </div>
